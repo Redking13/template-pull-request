@@ -1,14 +1,22 @@
-version: 3
+version: 2
 pull_request_templates:
   - name: "Story Template"
     branches:
       - "story/*"
-    template: "PULL_REQUEST_TEMPLATE/main.md"
+    template: "PULL_REQUEST_TEMPLATE/story.md"
   - name: "Fix Template"
     branches:
       - "fix/*"
     template: "PULL_REQUEST_TEMPLATE/fix.md"
-  - name: "Story Template"
+  - name: "Feature Template"
     branches:
-      - "story/*"
-    template: "PULL_REQUEST_TEMPLATE/story.md"
+      - "feature/*"
+    template: "PULL_REQUEST_TEMPLATE/feature.md"
+  - name: "Hotfix Template"
+    branches:
+      - "hotfix/*"
+    template: "PULL_REQUEST_TEMPLATE/hotfix.md"
+  - name: "Documentation Template"
+    branches:
+      - "docs/*"
+    template: "PULL_REQUEST_TEMPLATE/docs.md"
