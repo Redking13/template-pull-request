@@ -1,4 +1,4 @@
-version: 2
+version: 3
 pull_request_templates:
   - name: "Story Template"
     branches:
