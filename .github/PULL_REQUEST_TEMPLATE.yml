@@ -1,4 +1,5 @@
 version: 3
+
 pull_request_templates:
   - name: "Story Template"
     branches:
@@ -8,12 +9,7 @@ pull_request_templates:
     branches:
       - "fix/*"
     template: "PULL_REQUEST_TEMPLATE/fix.md"
-  - name: "each Template"
-    branches:
-      - "*"
-    template: "./PULL_REQUEST_TEMPLATE/fix.md"
   - name: "all Template"
     branches:
       - "*"
-    template: "PULL_REQUEST_TEMPLATE/fix.md"
-    
+    template: "PULL_REQUEST_TEMPLATE/fix.md"  
