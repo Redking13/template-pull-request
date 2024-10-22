@@ -15,7 +15,5 @@
 - [ ] Check if the PR is needed to be refactored
 - [ ] Check cohesion and coupling of the code
 - [ ] Test the code in a local environment
-- [ ] Reproduce the issue in a dev environment
-- [ ] Check if the PR is fixing the issue
 
 ## You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. We're here to help! This is simply a reminder of what we are going to look for before merging your code.
