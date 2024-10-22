@@ -1,7 +1,5 @@
 ## 🧠 Checklist for your Pull Request To be ready
 
-- [ ] Lint and unit tests pass with my changes
-- [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have run my code after merge from main, and I've checked the results are as expected.
 - [ ] I have added necessary documentation (if appropriate)
 - [ ] Test coverage is above 80%
