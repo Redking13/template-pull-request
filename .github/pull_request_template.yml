@@ -2,5 +2,5 @@ version: 2
 pull_request_templates:
   name: fix Template
   branches: fix/*
-  template: PULL_REQUEST_TEMPLATE/fix.txt
+  template: fixomertir.md
 
