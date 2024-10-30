@@ -1,6 +1,6 @@
----
+
 version: 2
 pull_request_templates:
-    name: "Main Template"
-    branches: fix/*
+    name: 'main Template'
+    branches: '*'
     template: PULL_REQUEST_TEMPLATE/story.md
