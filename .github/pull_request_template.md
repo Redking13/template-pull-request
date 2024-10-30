@@ -1,4 +1,3 @@
-
 version: 2
 pull_request_templates:
     name: 'main Template'
